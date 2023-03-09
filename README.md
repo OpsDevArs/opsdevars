@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+- 🌱 I’m currently learning how to be a decent DevOps
+- 📫 How to reach me: arsdevops@gmail.com
